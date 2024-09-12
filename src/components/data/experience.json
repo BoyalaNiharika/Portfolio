@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Android Application Developer",
+    "organisation": "OasisInfobyte",
+    "startDate": "May, 2023 - ",
+    "endDate": "June, 2023",
+    "location": "Remote", 
+    "experiences": [
+      "Worked on To-Do App, Quiz App"
+    ],
+    "imageSrc": "company/oasis_infobyte_logo.jpeg"
+  }
+  
+  
+]
